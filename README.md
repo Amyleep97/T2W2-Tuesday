@@ -26,12 +26,12 @@
 
 # Place values - decimals
 
-- Result of the multiplication of digit and 'it's place' in the number system.
-- In decimal, every place will have some powers of 10.
-- 7345 = 7 * 1000 + 3 * 100 + 4 * 10 + 5 * 1
+![place values decimals](https://github.com/user-attachments/assets/d4f1aaaf-987b-4ce5-88d3-96ec7e5e6272)
 
 
-# Place values - decimal
 
-- Result of the multiplication of digit and 'it's place' in the number system. 
-- In binary, every place will have some powers of 2. 
+# Place values - Binary
+
+![place values binary](https://github.com/user-attachments/assets/3dc2f9ab-1e8e-4a50-8ba0-1a317a7bac8a)
+
+
